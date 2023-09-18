@@ -19,6 +19,7 @@ const AppMenu = () => {
             label: 'UI Components',
             items: [
                 { label: 'Table', icon: 'pi pi-fw pi-table', to: '/uikit/table' },
+                { label: 'Example CRUD', icon: 'pi pi-fw pi-table', to: '/pages/crud' },
             ]
         }
     ];
